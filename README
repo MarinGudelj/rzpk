@@ -1,3 +1,4 @@
 Kod namijenjen za samostalni rad sa Raspberry PI računalom.
 c-tracking.py prati kretanje objekta narančaste boje, Tracking.py prepoznaje i prati čovjeka. 
 Podatkovne datoteke sadrže potrebne podatke za prepoznavanje čovjeka, što je potrebno za Tracking.py.
+Kod je namijenjen za rad s mobilnim robotom (robotska kolica), uz malu modifikaciju radi i sa stacionarnim robotom.
